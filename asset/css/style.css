@@ -1,0 +1,36 @@
+.colorbl{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.colorrd{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.colorgr{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.coloryl{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.div-key{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: solid 1px black;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
